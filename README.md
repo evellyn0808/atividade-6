@@ -1,1 +1,1 @@
-# atividade-6
+Essa atividade foi desenvolvida em HTML, CSS e JavaScript para demonstrar o uso básico de arrays em JavaScript. A aplicação permite adicionar frutas, remover a última fruta inserida e visualizar o conteúdo completo do array, além da quantidade de itens armazenados.
